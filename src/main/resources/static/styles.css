@@ -1,0 +1,21 @@
+.light-blue-bg {
+    background-color: lightblue;
+}
+
+.big-text {
+    font-size: 2em;
+}
+
+.big-bold-dark-blue-btn {
+    font-weight: bold;
+    color: darkblue;
+    font-size: 1.5em;
+}
+
+.light-green-bg {
+    background-color: lightgreen;
+}
+
+.text-center {
+    text-align: center;
+}

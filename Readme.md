@@ -34,5 +34,5 @@ Run the following command
 ## To run locally
 you must have java 17 running locally
 
-run this command   **_mvn clean package**_  
-and  **_java -jar target/securing-web-complete-0.0.1-SNAPSHOT.jar**_
+run this command   **_mvn clean package_** 
+and  **_java -jar target/securing-web-complete-0.0.1-SNAPSHOT.jar_**

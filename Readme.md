@@ -29,3 +29,10 @@ OS name: "linux", version: "4.18.0-448.el8.x86_64", arch: "amd64", family: "unix
 Run the following command
 
 **_mvn spring-boot:run_**
+
+
+## To run locally
+you must have java 17 running locally
+
+run this command   **_mvn clean package**_  
+and  **_java -jar target/securing-web-complete-0.0.1-SNAPSHOT.jar**_

@@ -36,3 +36,6 @@ you must have java 17 running locally
 
 run this command   **_mvn clean package_** 
 and  **_java -jar target/securing-web-complete-0.0.1-SNAPSHOT.jar_**
+
+## Sending code to sonarqube scanning
+sonar-scanner -Dsonar.projectKey={sonarqube project name} -Dsonar.sources=src -Dsonar.login={Sonarqube token}

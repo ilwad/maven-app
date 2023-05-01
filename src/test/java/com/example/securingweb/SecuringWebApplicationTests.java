@@ -64,6 +64,6 @@ public class SecuringWebApplicationTests {
 				.andExpect(status().isOk())
 				.andReturn();
 
-		assertThat(mvcResult.getResponse().getContentAsString()).contains("Welcome to Athena 1.5 APP!");
+		assertThat(mvcResult.getResponse().getContentAsString()).contains("Welcome to Maven APP!");
 	}
 }

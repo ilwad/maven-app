@@ -1,0 +1,17 @@
+# .gitignore
+
+# Ignore Maven and Gradle wrapper files
+.mvn/
+.mvnw
+.mvnw.cmd
+.gradle/
+gradlew
+gradlew.bat
+
+# Ignore the scannerwork directory
+.scannerwork/
+
+# Ignore build artifacts
+target/
+build/
+
